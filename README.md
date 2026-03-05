@@ -1,4 +1,4 @@
-# ☕ Smart Store Management System - Flutter Project
+# Smart Store Management System - Flutter Project
 
 Ứng dụng quản lý cửa hàng (Coffee/Bakery) toàn diện với hệ thống phân quyền thông minh, hỗ trợ tối ưu quy trình bán hàng, kiểm kho và báo cáo tài chính. Dự án được phát triển trong kỳ thực tập nhằm áp dụng các kiến trúc lập trình hiện đại vào thực tế.
 
