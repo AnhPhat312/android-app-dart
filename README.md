@@ -31,7 +31,7 @@ Dự án được xây dựng để giải quyết 3 vấn đề cốt lõi củ
 
 ---
 
-## 🛠 Kỹ thuật & Kiến trúc (Technical Highlights)
+## Kỹ thuật & Kiến trúc (Technical Highlights)
 
 * **Architecture:** Áp dụng kiến trúc **Feature-based** giúp chia nhỏ dự án thành các Module độc lập (Auth, Statistics, Staff, Inventory...), giúp dễ dàng bảo trì và làm việc nhóm.
 * **UI/UX:** * Sử dụng `Google Fonts` (Poppins) và `FontAwesome` icons để tạo giao diện hiện đại.
